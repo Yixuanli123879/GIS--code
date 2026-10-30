@@ -12,3 +12,6 @@ This project explores the use of Git and GitHub for version control and project 
 - Practise committing, pushing and pulling changes.
 
 Practical 4: Learning Git commands in Terminal.
+## Branch practice
+
+This change was made in the test-branch.
