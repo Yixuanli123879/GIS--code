@@ -1,4 +1,4 @@
-# GIS--code
+# GIS--homework
 
 This repository contains practical work for CASA0005: Geographic Information Systems.
 
